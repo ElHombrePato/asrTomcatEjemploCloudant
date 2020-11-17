@@ -12,7 +12,7 @@
 <p>Opciones sobre la BD de Juan de Benito</p>
 <ul>
 <li><a href="listar">Listar</a></li>
-<li><a href="insertar?palabra=hola">Insertar</a></li>
+<li><a href="insertar?palabra=caja">Insertar</a></li>
 </ul>
 </body>
 </html>
