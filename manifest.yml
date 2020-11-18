@@ -6,7 +6,7 @@ applications:
   memory: 640M
   instances: 1
   host: juan2020
-  domain: eu-gb.mybluemix.net
+  domain: eu-gb.mybluemix.net/asrTomcatEjemploCloudant
   #Buildpack de Tomcat 
   buildpack: java_buildpack
   #Buildpack de Liberty
